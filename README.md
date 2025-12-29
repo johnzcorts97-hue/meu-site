@@ -27,7 +27,7 @@
     <div class="card">
         <h3> Inteligencia Emocional</h3>
         <p> Um excelente produto para te auxilar em sua Evolução Mental.</p>
-        <a href=https://pay.kiwify.com.br/u41v358.com" target="_blank">Comprar</a>
+        <a href=https://pay.kiwify.com.br/u41v358" target="_blank">Comprar</a>
     </div>
 
 </section>
@@ -43,7 +43,7 @@
 <section id="contato" class="contato">
     <h2>Contato</h2>
     <p>Email: Johnzcorts97@gmail.com</p>
-    <p>WhatsApp: (47992656376</p>
+    <p>WhatsApp: (47)992656376</p>
 </section>
 
 <footer>
