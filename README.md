@@ -25,22 +25,11 @@
     <h2>Nossos Produtos</h2>
 
     <div class="card">
-        <h3>Produto 1</h3>
-        <p>Descrição breve do produto.</p>
-        <a href="https://seulink.com" target="_blank">Comprar</a>
+        <h3> Inteligencia Emocional</h3>
+        <p> Um excelente produto para te auxilar em sua Evolução Mental.</p>
+        <a href="https://kiwify.app/NhIcoux.com" target="_blank">Comprar</a>
     </div>
 
-    <div class="card">
-        <h3>Produto 2</h3>
-        <p>Descrição breve do produto.</p>
-        <a href="https://seulink.com" target="_blank">Comprar</a>
-    </div>
-
-    <div class="card">
-        <h3>Produto 3</h3>
-        <p>Descrição breve do produto.</p>
-        <a href="https://seulink.com" target="_blank">Comprar</a>
-    </div>
 </section>
 
 <section id="sobre" class="sobre">
