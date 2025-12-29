@@ -27,7 +27,7 @@
     <div class="card">
         <h3> Inteligencia Emocional</h3>
         <p> Um excelente produto para te auxilar em sua Evolução Mental.</p>
-        <a href="https://kiwify.app/NhIcoux.com" target="_blank">Comprar</a>
+        <a href=https://pay.kiwify.com.br/u41v358.com" target="_blank">Comprar</a>
     </div>
 
 </section>
